@@ -1,16 +1,51 @@
-## Hi there 👋
+# KISHORE BABU
+### Aspiring Data Scientist | Machine Learning & Computer Vision
 
-<!--
-**kishore-babu2005/kishore-babu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Data Scientist interested in developing data-driven solutions through machine learning, deep learning, and statistical analysis.
 
-Here are some ideas to get you started:
+My work focuses on transforming raw data into meaningful insights, building predictive models, and exploring computer vision techniques to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AREAS OF INTEREST
+- Machine Learning & Deep Learning
+- Computer Vision & Object Detection
+- Exploratory Data Analysis
+- Predictive Modeling
+- Model Optimization & Evaluation
+
+### TECHNICAL SKILLS
+
+**Programming:** Python, SQL
+
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn, Model Evaluation, Feature Engineering
+
+**Deep Learning:** PyTorch, YOLO, Convolutional Neural Networks
+
+**Computer Vision:** OpenCV, Image Processing, Object Detection
+
+**Tools:** Jupyter Notebook, Git, GitHub, Power BI
+
+### FEATURED PROJECTS
+
+**Blinkit Sales Analysis Dashboard**
+
+An interactive business intelligence dashboard developed to analyze sales performance, outlet characteristics, and business KPIs.
+
+**Data Science Projects**
+
+Hands-on projects involving data preprocessing, exploratory data analysis, visualization, and machine learning.
+
+### CURRENTLY EXPLORING
+- Advanced deep learning architectures
+- Attention mechanisms for computer vision
+- Hyperparameter optimization
+- Efficient model deployment and evaluation
+
+### CONNECT
+
+[GitHub](https://github.com/kishore-babu2005) · [LinkedIn](https://www.linkedin.com/in/kishore-babu-5a29b83b5/)
+
+---
+
+*Driven by curiosity. Focused on learning. Building with data.*
